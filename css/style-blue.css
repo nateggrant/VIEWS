@@ -98,7 +98,7 @@ button[type="button"]{ border:none; background:none;}
 
 
 /* NAVBAR */
-.navbar-default{ background:none; border:none; padding:10px 0;}
+.navbar-default{ background:none; border:none; padding:10px 0; float: left;}
 .navbar-default{transition-delay:0.7s !important; -webkit-transition: all 0.4s ease; -moz-transition: all 0.4s ease; -ms-transform:all 0.4s ease; transition: all 0.4s ease;}
 .navbar-default{transform: translateY(-100%); -moz-transform:translateY(-100%); -ms-transform:translateY(-100%); -o-transform:translateY(-100%); -webkit-transform:translateY(-100%);}
 .navbar-default .navbar-brand{ height:auto; float: left; }
