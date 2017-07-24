@@ -105,10 +105,9 @@ button[type="button"]{ border:none; background:none;}
 .navbar-default .navbar-brand{ height:auto; float: left;}
 .navbar-default .navbar-brand img{ height:50px; float: left;}
 .navbar-default .social-media { margin:10px 0; padding:0; float: right;}
-.navbar-default .socialmedia2 li{ float:right; margin:0 6px; padding:0; list-style:none; float: right; }
-.navbar-default .socialmedia2 li a{ width:42px; height:42px; float: right; text-align:center; line-height:38px; border:2px solid #000000; border-radius:50%; color:#000000;}
-.navbar-default .socialmedia2 li a:hover{ background:#ffffff; border:2px solid #ffffff; float: right;}
-.navbar-default .navbar2 {float: right;}
+.navbar-default .social-media li{ float:right; margin:0 6px; padding:0; list-style:none; float: right; }
+.navbar-default .social-media li a{ width:42px; height:42px; float: right; text-align:center; line-height:38px; border:2px solid #000000; border-radius:50%; color:#000000;}
+.navbar-default .social-media li a:hover{ background:#ffffff; border:2px solid #ffffff; float: right;}
 
 /* HEADER */
 .header{ width:100%; height:100%; background:#ffffff; position:relative; }
